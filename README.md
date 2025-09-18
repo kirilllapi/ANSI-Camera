@@ -19,6 +19,7 @@ cd ANSI@Camera/
 ./run.sh
 ```
 To change the mode (with color/without color) use keyboard -> press "```c```"
+
 If you want to clone into another directory, replace command in ```run.sh```:
 ```
 nano run.sh
