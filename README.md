@@ -21,7 +21,7 @@ kitty
 ```
 cd ~
 git clone https://github.com/kirilllapi/ANSI-Camera.git
-cd ANSI@Camera/
+cd ANSI-Camera/
 ./run.sh
 ```
 
