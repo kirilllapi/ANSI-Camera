@@ -18,7 +18,7 @@ git clone https://github.com/kirilllapi/ANSI-Camera.git
 cd ANSI@Camera/
 ./run.sh
 ```
-To change the mode (with color/without color) use keyboard -> press "```c```"
+To change the mode (with color/without color) use the keyboard -> press "```c```"
 
 If you want to clone into another directory, replace command in ```run.sh```:
 ```
