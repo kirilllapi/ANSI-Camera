@@ -18,8 +18,8 @@ git clone https://github.com/kirilllapi/ANSI-Camera.git
 cd ANSI@Camera/
 ./run.sh
 ```
-For change mode (with color/without color) use keyboard -> press "```c```"
-If you want to clone on another directory, repace command in ```run.sh```:
+To change the mode (with color/without color) use keyboard -> press "```c```"
+If you want to clone into another directory, replace command in ```run.sh```:
 ```
 nano run.sh
 export LD_LIBRARY_PATH=$HOME/YOUR_DIRECTORY/ANSI@Camera/opencv_pc/lib:$LD_LIBRARY_PATH 
