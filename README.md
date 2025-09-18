@@ -30,5 +30,5 @@ To change the mode (with color/without color) use the keyboard -> press "```c```
 If you want to clone into another directory, replace command in ```run.sh```:
 ```
 nano run.sh
-export LD_LIBRARY_PATH=$HOME/YOUR_DIRECTORY/ANSI@Camera/opencv_pc/lib:$LD_LIBRARY_PATH 
+export LD_LIBRARY_PATH=$HOME/YOUR_DIRECTORY/ANSI-Camera/opencv_pc/lib:$LD_LIBRARY_PATH 
 ```
