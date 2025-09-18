@@ -78,9 +78,9 @@ int main()
 
       createCharsForImage(gray, resized);
 
-      cv::imshow("frame", resized); // нужен хоть один imshow
+      cv::imshow("frame", resized);
       int key = cv::waitKey(30) & 0xFF;
-      if (key == 'q')
+      if (key == 'c' || key == 'C')
       {
         setColorfull = !setColorfull;
       }
