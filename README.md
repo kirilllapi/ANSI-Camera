@@ -12,6 +12,7 @@
 ```
 # IT'S ONLY FOR LINUX
 ## Quick start:
+### In terminal:
 ```
 sudo apt update
 sudo apt install kitty
